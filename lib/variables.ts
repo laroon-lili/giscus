@@ -47,6 +47,7 @@ export const availableThemes = [
   'catppuccin_mocha',
   'fro',
   'custom',
+  'liquid_glass',
 ] as const;
 
 export const meta = {
